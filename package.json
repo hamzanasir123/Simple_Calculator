@@ -1,0 +1,17 @@
+{
+  "name": "online_classes",
+  "version": "1.0.0",
+  "description": "A Simple Calculator With Typescript, Node.js And inquirer.",
+  "main": "online_class_1.js",
+  "type": "module",
+  "bin": "online_class_2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza Nasir",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
